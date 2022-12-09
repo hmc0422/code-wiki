@@ -18,7 +18,7 @@
     <!--    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">-->
     <link rel="stylesheet" href="static/css/vue.css">
     <link rel="stylesheet" href="static/css/style.css">
-    <link rel="stylesheet" href="static/css/sidebar.min.css" />
+    <link rel="stylesheet" href="static/css/sidebar.min.css"/>
 
     <script>
         var _hmt = _hmt || [];
@@ -50,20 +50,15 @@
 <div id="app"></div>
 <script>
     window.$docsify = {
-        name: 'Hs ♥ Coding',
+        name: 'Hs <span style="color: red">♥</span> Coding',
         repo: '',
         loadSidebar: true,
         loadNavbar: true,
         coverpage: true,
         onlyCover: true,
-        subMaxLevel: 3,
+        // subMaxLevel: 3,
         auto2top: true,
-        alias: {
-            '/.*/_sidebar.md': '/_sidebar.md'
-        },
-        sidebarDisplayLevel: 1,
-        // logo: 'static/img/20210330163051.jpg',
-        // nameLink: 'https://www.r2coding.com/',
+        mergeNavbar: true,
 
         'flexible-alerts': {
             style: 'flat'
@@ -74,32 +69,6 @@
                 toggleBtnBg: '#42b983'
             }
         },
-
-        // plugins: [
-        //     function (hook) {
-        //         var footer = [
-        //             '<hr/>',
-        //             '<footer style="text-align: center">',
-        //             '<p>',
-        //             '<img src="r2_static/img/r2coding_logo_sidebar.1na4hwjnopq8.png" alt="r2coding" >',
-        //             '</p>',
-        //             '<span><a href="https://beian.miit.gov.cn/" style="font-size:80%;color:#939393;" target="_blank">苏ICP备2021001162号-1</a></span><span>  •  </span><span><img src="r2_static/img/beian.5m919tgd7vw0.png" height="15px" width="15px" /><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=32010402001108" style="font-size:80%;color:#939393;" target="_blank">苏公网安备 32010402001108号</a></span>',
-        //             '<p>',
-        //             'Copyright © 2021 <span><a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" style="font-size:80%;color:blue;" target="_blank">CodeSheep</a></span> , All rights reserved. Hosted By <span><a href="https://www.aliyun.com/minisite/goods?taskPkg=yds2211&pkgSid=507450&recordId=4731595&userCode=eso7wf2g" style="font-size:80%;color:blue;" target="_blank">Aliyun ECS</a></span>.',
-        //             '</p>',
-        //             '</footer>'
-        //         ].join('');
-        //         hook.afterEach(function (html) {
-        //             var isReadme = window.location.href.indexOf("README");
-        //             if (isReadme === -1) {
-        //                 // return header + html + footer;
-        //                 return html + footer;
-        //             } else {
-        //                 return html + footer;
-        //             }
-        //         });
-        //     }
-        // ]
 
     }
 </script>
