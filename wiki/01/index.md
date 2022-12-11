@@ -42,7 +42,7 @@ https://hmc0422.github.io/code-wiki/01/pdf/c.pdf
 ### **Python后台开发**
 
 ```pdf
-https://hmc0422.github.io/code-wiki/01/pdf/c.pdf
+https://hmc0422.github.io/code-wiki/01/pdf/python.pdf
 ```
 
 <!-- tabs:end -->
