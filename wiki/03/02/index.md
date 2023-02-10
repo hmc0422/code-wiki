@@ -1,8 +1,6 @@
 ---
 <p align="left">
-    <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
         <img src="/static/img/localsoftware.2x9vakmja2g.png" width=""/>
-    </a>
 </p>
 
 这里将常用软件分为了5大类，包括：

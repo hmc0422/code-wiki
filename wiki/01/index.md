@@ -6,7 +6,7 @@
 ### **Java后端开发**
 
 ```pdf
-https://hmc0422.github.io/code-wiki/01/pdf/jawa.pdf
+https://hmc0422.github.io/code-wiki/01/pdf/java.pdf
 ```
 
 ### **Go后端开发**

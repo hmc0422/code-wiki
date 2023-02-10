@@ -23,6 +23,7 @@
 - [Java：面试必问的ConcurrentHashMap精讲](https://mp.weixin.qq.com/s/cnpfLL4TeL2oyEcHia6Bmg)
 - [Java：说说什么是Java内存模型](https://mp.weixin.qq.com/s/lEgHPertXyguZIkv61LlKQ)
 - [Java：浮点数精度问题面试例析](https://mp.weixin.qq.com/s/VXRRMabz_fvwnZeLWT-ybg)
+- [Java：Java面试精华整理篇](wiki/08/03/java/01)
 - [计网：2w+字的计算机网络常见面试题整理](https://mp.weixin.qq.com/s/C82YpO0gwC8LHcJSHbR81A)
 - [计网：面试最爱问的三次握手和四次挥手问题](https://mp.weixin.qq.com/s/lFnyBaaP3f0eNcKGW5RtCg)
 - [计网：计算机网络高频12问](https://mp.weixin.qq.com/s/PIGfhMaAx9R5C4x5eJQnIw)
