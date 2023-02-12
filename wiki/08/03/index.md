@@ -8,7 +8,7 @@
 
 - [C/C++：C语言/C++基础面试知识大集合](https://mp.weixin.qq.com/s/7mx58Idw1pL0MjPIFBUB1Q)
 - [C/C++：68道C语言/C++常见面试题集合](https://mp.weixin.qq.com/s/BRQ-3uvstdZPO-cnLGCVzA)
-- [Java：Java面试题硬核全梳理 ~](https://mp.weixin.qq.com/s/p1zxnGVeTDJiyjgowRIoBA)
+- [Java：Java面试题硬核全梳理 ~](wiki/08/03/java/02/01)
 - [Java：10道精选Java基础面试题集合](https://mp.weixin.qq.com/s/oBDrFnuk1lbfuNHkrhAC5w)
 - [Java：Java基础知识面试题大集合](https://mp.weixin.qq.com/s/f-qIQGbzwHcW5Ur51rCqgg)
 - [Java：Java集合硬核面试50问（附答案）](https://mp.weixin.qq.com/s/si_V6J_6ZZn4Akc12mMk2g)
