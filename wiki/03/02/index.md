@@ -12,7 +12,7 @@
 [//]: # (> - UP主必备)
 
 
-- [点击查看：我的常用软件大公开！](https://mp.weixin.qq.com/s/ONx6wjGjQSvOOIgnEBTNJQ)
+- [点击查看：我的常用软件大公开！](wiki/03/02/01/01)
 
 [//]: # (<p align="center">)
 
