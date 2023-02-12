@@ -1,7 +1,5 @@
 ---
-<p align="left">
-        <img src="wiki/03/02/img/img.png" width=""/>
-</p>
+![](img/img.png)
 
 这里将常用软件分为了5大类，包括：
 
