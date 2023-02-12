@@ -1,6 +1,6 @@
 ---
 <p align="left">
-        <img src="/static/img/localsoftware.2x9vakmja2g.png" width=""/>
+        <img src="wiki/03/02/img/img.png" width=""/>
 </p>
 
 这里将常用软件分为了5大类，包括：
