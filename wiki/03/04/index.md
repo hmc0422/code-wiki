@@ -1,20 +1,11 @@
 ---
-<p align="left">
-    <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
-        <img src="/static/img/linuxos.qciprfz30dc.png" width=""/>
-    </a>
-</p>
 
 > [!ATTENTION]
 >  实际企业级开发和项目部署，大部分情况下基本都是基于Linux环境进行的，所以掌握常用的命令、配置、网络和系统管理、基本的Shell编程等尽量还是要熟练一些，对后续项目实践都大有裨益。
 
-> [!Note]
->  - [**本章节置顶资源1：《Linux命令速查备忘手册.pdf》下载**](https://mp.weixin.qq.com/s/GJYVt376C_g4406ux5uw0Q)
->  - [**本章节置顶资源2：《Linux命令行大全.pdf》下载**](https://mp.weixin.qq.com/s/3rV556_0piRNsSpDYwuZ8g)
-
-- [常用Linux操作系统大盘点](https://mp.weixin.qq.com/s/x8rwsIOzYEPXmEVXmWJ4Tg)
-- [人手一套Linux环境之：macOS版教程](https://mp.weixin.qq.com/s/WeZLtfrMdnISpX3v5WpJfA)
-- [人手一套Linux环境之：Windows版教程](https://mp.weixin.qq.com/s/onVwwEQ1DAwbvK7qS2YNxg)
+- [常用Linux操作系统大盘点](wiki/03/04/001/01)
+- [人手一套Linux环境之：macOS版教程](wiki/03/04/002/01)
+- [人手一套Linux环境之：Windows版教程](wiki/03/04/003/01)
 - [69张图：详细记录Ubuntu 20.04安装配置过程](https://mp.weixin.qq.com/s/vkLZ_3Jp4HdQ8PDIMYsGEw)
 - [废柴电脑拯救计划：借助Debian搭建个人专属云服务器](https://mp.weixin.qq.com/s/YpWp-b3vcAtb_jBwCM7wtg)
 - [常用Linux命令大整理](https://mp.weixin.qq.com/s/Kog6AfXYINIDwKMpJMkGFQ)

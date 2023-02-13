@@ -31,7 +31,7 @@
 - [服务器：从一份配置清单详解Nginx服务器配置](https://mp.weixin.qq.com/s/099PJZE89JVNnaF0kwePDQ)
 - [服务器：为什么Nginx能轻松撑起几万并发](https://mp.weixin.qq.com/s/VR1jEhJVXCfja3Pmo_kKkw)
 - [搜索引擎：CentOS7上搭建多节点Elasticsearch集群](https://mp.weixin.qq.com/s/pdQNDMQQnXpoVKIA8JpyQQ)
-- [搜索引擎：一文上手Elasticsearch常用可视化管理工具](https://mp.weixin.qq.com/s/BE8LrpviJNXGV41bhzGFTw)
+- [搜索引擎：一文上手Elasticsearch常用可视化管理工具](wiki/05/05/023/01)
 - [搜索引擎：从一份定义文件详解ELK中Logstash插件结构](https://mp.weixin.qq.com/s/d2maG61HB2_rU56DYD2A9w)
 - [搜索引擎：Elasticsearch索引的映射配置详解](https://mp.weixin.qq.com/s/C8JTxdjeSCR22xeAiLHHGg)
 - [其他中间件：ZooKeeper面试常见十二问](https://mp.weixin.qq.com/s/ir0uurwo95hB3g__vTceJQ)

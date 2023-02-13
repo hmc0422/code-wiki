@@ -1,6 +1,6 @@
 ---
 > [!NOTE]
->  - [**【置顶笔记下载1】熬10天夜，我肝出了这个PDF版「服务器软件安装手册」**](https://mp.weixin.qq.com/s/YNOZSQ5smo1uGE5ZttUZ_w)
+>  - [**【置顶笔记下载1】熬10天夜，我肝出了这个PDF版「服务器软件安装手册」**](wiki/03/00/01)
 >  
 >  - [**【置顶笔记下载2】再肝两夜，写了个「服务器项目部署」实战PDF手册**](https://mp.weixin.qq.com/s/JUJ6qu_ec3s1JmTxQt_V3g)
 
